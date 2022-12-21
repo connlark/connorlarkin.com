@@ -23,7 +23,7 @@ export default function Home() {
       <main className={styles.main}>
         <h3 className={styles.title}>
           connorlarkin.com
-      </h1>
+      </h3>
       <Spacer/>
       <Spacer/>
 

@@ -14,3 +14,35 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+
+  body {
+    color: white;
+    background: black;
+  }
+}
+
+
+
+
+@media (prefers-color-scheme: light) {
+  html {
+    color-scheme: dark;
+  }
+
+  body {
+    color: white;
+    background: black;
+  }
+}
+
+h2 {
+  background: -webkit-linear-gradient(45deg, #8633FF, #23A89E);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}

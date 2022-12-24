@@ -1,1 +1,1 @@
-check out (connorlarkin.com!!!)[https://connorlarkin.com]
+check out [connorlarkin.com!!!](https://connorlarkin.com)

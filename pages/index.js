@@ -31,10 +31,10 @@ export default function Home() {
 
         <Button onClick={() => {window.location.replace('https://github.com/connlark')}}>github</Button>
 
-        <Button onClick={() => {window.location.replace('https://twitter.com/connlark')}}>twitter</Button>
+        <Button onClick={() => {window.location.replace('https://twitter.com/musicbridgeapp')}}>twitter</Button>
         <Button onClick={() => {window.location.replace('https://instagram.com/connlark')}}>instagram</Button>
 
-        <Button onClick={() => {window.location.replace('https://bitbybite.xyz')}}>bitbybite.xyz</Button>
+{/*<Button onClick={() => {window.location.replace('https://bitbybite.xyz')}}>bitbybite.xyz</Button>*/}
         
       </Button.Group>
       </main>
